@@ -1,0 +1,6 @@
+﻿x,y,diameter,Short descriptor,Stage,link,Ignite,Fellowship,Total Funding Granted,Inventor(s),Technology Sector
+100,100,20,Cell imaging,Stage 1,https://cornell.flintbox.com/technologies/0f7662e2-abf2-42f3-919b-6511d892f6f2,0,0,$0.00 ,Alice,Biology
+100,250,20,Dehydration,Stage 1,https://cornell.flintbox.com/technologies/0f7662e2-abf2-42f3-919b-6511d892f6f3,0,0,$0.00 ,Mary,Physics
+600,550,50,Drug Delivery,Stage 2,https://cornell.flintbox.com/technologies/0f7662e2-abf2-42f3-919b-6511d892f6f4,1,0,"$30,000.00 ",Jack,Biology
+600,750,65.87,Antibiotics,Stage 2,https://cornell.flintbox.com/technologies/0f7662e2-abf2-42f3-919b-6511d892f6f5,1,0,"$45,869.00 ",Elise,Biology
+1800,300,64,Imaging divice,Stage 3,https://cornell.flintbox.com/technologies/0f7662e2-abf2-42f3-919b-6511d892f6f6,1,0,"$43,997.00 ",Caitlyn,Physics
